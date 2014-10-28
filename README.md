@@ -15,4 +15,5 @@ zhengzeTest
 >>>>>>> 42f471a6e061eec72521de62ec54aac12c68058c
 7.git status
 8.git commit -amend :补充提交
-
+9.git tag -a 标签名 -m 标签注释:添加tag
+10.git tag :show tag
